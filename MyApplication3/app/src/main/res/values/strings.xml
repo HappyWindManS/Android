@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_name">账号：</string>
+    <string name="login_but">登录</string>
+    <string name="TextView">注册</string>
+    <string name="edit_text_login_name">请输入用户名</string>
+</resources>
